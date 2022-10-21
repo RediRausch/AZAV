@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: red;
+}
+p {
+  color: rgb(123, 9, 9);
+  background-color: bisque;
+  padding: 10px;
+  margin: 10px;
+}
+.bsp2 {
+  color: rgb(163, 221, 76);
+}
+.bsp4 {
+  color: aqua;
+}
+#bsp1 {
+  background-color: deeppink;
+}
+.bsp2 {
+  background-color: antiquewhite;
+}
+div {
+  color: rgb(247, 255, 7);
+  background-color: rgb(42, 230, 230);
+  box-shadow: 10px 20px 15px silver;
+}
+button {
+    background-color: gray;
+    box-shadow: 5px 5px 5px silver;
+    box-sizing: border-box 20px 20px 20px;
+}
