@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 34px;
+  padding-left: 75px;
+  padding-right: 100px;
+}
+.img {
+  position: absolute;
+  left: 1000px;
+  top: 85px;
+  block-size: 499px;
+}
+/* Mein Logo */
+.p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  position: absolute;
+  left: 75px;
+  top: 80px;
+  font-size: 100px;
+  background-color: gold;
+  block-size: 199px;
+}
+/* ausrichtung der Schrift */
+.wo {
+  margin-top: 560px;
+}
+.navbar {
+  display: flex;
+  justify-content: right;
+}
+a {
+  text-decoration: none;
+  color: rgb(63, 63, 63);
+  font-size: 24px;
+  margin-left: 22px;
+  padding: 26px;
+}
+
+a:hover {
+  text-shadow: 2px 2px 2px gold;
+}
+.butt{
+  background-color: gold;
+  }
+table,th,td{
+  border:1px solid #cccccc
+}
+.b{
+  background-color: gold;
+}
+.h{
+  background-color: red;
+}
+.table{
+  background-color: azure;
+}
