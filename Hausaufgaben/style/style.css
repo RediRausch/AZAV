@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&display=swap");
+
+/* Hausaufgabe1 */
+
+.colorsfonts {
+  color: rgb(108, 214, 214);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.colorinred {
+  color: red;
+}
+.font30pxblue {
+  font-size: 30px;
+  color: blue;
+}
+.textpink {
+  color: pink;
+}
+.favotext {
+  font-family: "Fasthand", cursive;
+  font-size: 2em;
+  color: greenyellow;
+}
+.dreirem {
+  font-size: 3rem;
+  color: yellow;
+}
+
+/* Hausaufgabe2 */
+
+.boldgreen {
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.thinwithBG {
+  background-color: green;
+  color: aqua;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+}
+.pinkshadow {
+  color: pink;
+  text-shadow: 1px 2px 1px rgb(0, 0, 0), 2px 3px 2px black;
+  font-size: xx-large;
+}
+.totertext {
+  color: red;
+  text-decoration-line: line-through;
+  text-align: right;
+}
+.underline {
+  color: yellow;
+  text-decoration: underline red;
+}

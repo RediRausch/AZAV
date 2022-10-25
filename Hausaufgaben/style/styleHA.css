@@ -1,0 +1,24 @@
+/* Hausaufgabe Teil3 */
+
+h1 {
+  font-family: fantasy;
+  color: rgba(82, 132, 82, 0.824);
+}
+.imclassselector {
+  color: rgb(113, 113, 255);
+  text-decoration: underline;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.divredredblue {
+  background-color: rgba(124, 200, 214, 0.635);
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.divbg{
+    background-color: rgba(197, 137, 208, 0.635);
+}
+}
